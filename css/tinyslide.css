@@ -25,9 +25,49 @@ html, body { width: 100%; height: 100%; }
 /* line 63, ../sass/tinyslide.scss */
 .tinyslide figure img { width: 100%; height: 100%; -o-object-fit: cover; object-fit: cover; }
 /* line 69, ../sass/tinyslide.scss */
-.tinyslide figure figcaption { position: absolute; font-size: 3em; color: white; bottom: .5em; right: 2em; z-index: 2; opacity: 0; }
+.tinyslide figure figcaption { 
+  position: absolute; 
+  font-size: 4em; 
+  color: white; 
+  bottom: 8em; 
+  left: 4em; 
+  z-index: 2; 
+  opacity: 0; 
+}
 /* line 79, ../sass/tinyslide.scss */
-.tinyslide figure.active figcaption { -webkit-animation-name: fadeInRight; animation-name: fadeInRight; -webkit-animation-fill-mode: both; animation-fill-mode: both; -webkit-animation-duration: 2s; animation-duration: 2s; }
+.tinyslide figure.active figcaption { 
+  -webkit-animation-name: fadeInRight; 
+  animation-name: fadeInRight; 
+  -webkit-animation-fill-mode: both; 
+  animation-fill-mode: both; 
+  -webkit-animation-duration: 2s; 
+  animation-duration: 2s; 
+}
+/* .tip {
+  font-family: Plain,sans-serif;
+    font-size: 16px;
+    color: #fff;
+    font-weight: 500;
+    line-height: 30px;
+    margin-bottom: 30px;
+    opacity: .8;
+    padding-right: 50px
+} */
+
+.sub {
+  font-family: Plain,sans-serif;
+    font-size: 40px;
+    color: #d3d3d3;
+    font-weight: 300;
+    
+}
+
+.title{
+  font-family: Plain,sans-serif;
+    font-size: 90px;
+    color: #fff;
+    font-weight: 500;
+}
 
 @-webkit-keyframes fadeInRight { 0% { opacity: 0; -webkit-transform: translateX(20px); transform: translateX(20px); }
   100% { opacity: 1; -webkit-transform: translateX(0); transform: translateX(0); } }
