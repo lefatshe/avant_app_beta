@@ -331,7 +331,7 @@
         return;
       }
 
-      var output = "<footer class='footer'> <div class='footer__controls'> <div class='next_link'>  <button><span data-hover='ONLINE'>BOOKING </span></button> </div> <div class='pagination'><ul>\n";
+      var output = "<footer class='footer'> <div class='footer__controls'> <div class='next_link'>  <a href='http://live.skybookings.net/events/connecting-the-dots-dj-spinna-nyc/'><span data-hover='ONLINE'>BOOKING </span></a> </div> <div class='pagination'><ul>\n";
       for(var i=0; i < _.numSlides; i++){
         output += "<li class='' data-index='"+i+"'><a style='transition-duration: 7000ms'></a></li>\n";
       }
