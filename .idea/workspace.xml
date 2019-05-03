@@ -2,94 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42f64a60-ae41-4821-9473-facc98e6e7a4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Avant-App.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/browserconfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrapped.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fullpage.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/normalize.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/tinyslide.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/TOC.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/css.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/extend.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/faq.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/html.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/js.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/misc.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/usage.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/03af1e3.eot?" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/044630e.eot?" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/048aa6b.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/0537487.eot?" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/10141a9.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/10141a9.eot?" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/1859b68.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/21be120.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/283d662.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/2d2ae25.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/2e09bb2.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/2fd8831.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/3c08aa5.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/43553b1.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/551b06e.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/5e19efe.eot?" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/61c29fe.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/639737d.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/6915924.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/707bd65.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/7b7cc15.eot?" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/7ce6760.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/883828e.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/926a08f.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/94ee15b.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/9efd1a4.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/b64f8ce.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/b6794ba.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/b7c5127.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/b7c5127.eot?" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/b7c5e34.eot?" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/c2a57ff.eot?" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/c2fa38a.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/c69b98a.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/c78eab6.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/c862c45.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/cc67a9b.eot?" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/d48fd66.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/d85f090.eot?" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/e2cf3dc.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/f52a96e.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/f68188e.eot?" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/f9decd2.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fb76087.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/humans.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/672d00e.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/711253f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/75795eb.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/859ee1f.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/c2fc211.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/c36f7f4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/slide1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/slide2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/slide3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vendor/jquery-3.3.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vendor/modernizr-3.7.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vendor/tinyslide.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site.webmanifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tile-wide.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -102,20 +17,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="114" column="58" selection-start-line="114" selection-start-column="58" selection-end-line="114" selection-end-column="58" />
+            <state relative-caret-position="429">
+              <caret line="54" column="41" selection-start-line="54" selection-start-column="41" selection-end-line="54" selection-end-column="41" />
+              <folding>
+                <element signature="n#section#0;n#section#0;n#section#0;n#section#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#figure#0;n#aside#0;n#section#0;n#section#0;n#section#0;n#section#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#figure#1;n#aside#0;n#section#0;n#section#0;n#section#0;n#section#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#figure#2;n#aside#0;n#section#0;n#section#0;n#section#0;n#section#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#figure#3;n#aside#0;n#section#0;n#section#0;n#section#0;n#section#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+            <state relative-caret-position="253">
+              <caret line="226" column="1" selection-start-line="226" selection-start-column="1" selection-end-line="226" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -123,8 +45,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/tinyslide.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-391">
-              <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+            <state relative-caret-position="378">
+              <caret line="57" column="2" selection-start-line="57" selection-start-column="2" selection-end-line="57" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -132,37 +54,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/bootstrapped.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret column="198296" selection-start-column="198296" selection-end-column="198296" />
-              <folding>
-                <element signature="e#24194#24442#2" expanded="true" />
-                <element signature="e#25233#25400#1" expanded="true" />
-                <element signature="e#25440#25688#1" expanded="true" />
-                <element signature="e#28651#28941#2" expanded="true" />
-                <element signature="e#29760#29927#1" expanded="true" />
-                <element signature="e#29967#30257#1" expanded="true" />
-                <element signature="e#58757#58958#2" expanded="true" />
-                <element signature="e#59185#59335#2" expanded="true" />
-                <element signature="e#59734#59881#2" expanded="true" />
-                <element signature="e#61357#61524#1" expanded="true" />
-                <element signature="e#72813#73057#2" expanded="true" />
-                <element signature="e#73882#74132#2" expanded="true" />
-                <element signature="e#103014#103203#2" expanded="true" />
-                <element signature="e#103249#103439#2" expanded="true" />
-                <element signature="e#155414#155608#2" expanded="true" />
-                <element signature="e#155709#155903#2" expanded="true" />
-                <element signature="e#156044#156235#2" expanded="true" />
-                <element signature="e#156355#156546#2" expanded="true" />
-                <element signature="e#156666#156843#2" expanded="true" />
-                <element signature="e#156963#157140#2" expanded="true" />
-                <element signature="e#162883#163985#2" expanded="true" />
-                <element signature="e#164111#165210#2" expanded="true" />
-                <element signature="e#191893#192776#2" expanded="true" />
-                <element signature="e#192788#193671#2" expanded="true" />
-                <element signature="e#267896#268783#2" expanded="true" />
-                <element signature="e#350040#350855#2" expanded="true" />
-                <element signature="e#374562#375345#2" expanded="true" />
-              </folding>
+            <state>
+              <caret column="251" selection-start-column="251" selection-end-column="251" />
             </state>
           </provider>
         </entry>
@@ -178,6 +71,7 @@
       <find>url(../img/672d00e.svg)</find>
       <find>.header__logo</find>
       <find>.header__logo a.logo</find>
+      <find>body</find>
     </findStrings>
     <replaceStrings>
       <replace>/img/</replace>
@@ -192,14 +86,14 @@
       <list>
         <option value="$PROJECT_DIR$/css/bootstrapped.css" />
         <option value="$PROJECT_DIR$/css/tinyslide.css" />
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-54" />
-    <option name="y" value="106" />
+    <option name="x" value="302" />
+    <option name="y" value="72" />
     <option name="width" value="1247" />
     <option name="height" value="745" />
   </component>
@@ -220,6 +114,11 @@
               <item name="avant_app_beta" type="b2602c69:ProjectViewProjectNode" />
               <item name="avant_app_beta" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="avant_app_beta" type="b2602c69:ProjectViewProjectNode" />
+              <item name="avant_app_beta" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -264,13 +163,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4827000" />
+    <option name="totallyTimeSpent" value="8311000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19431593" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15399867" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -282,7 +181,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.24787535" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -295,58 +194,36 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/bootstrapped.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret column="198296" selection-start-column="198296" selection-end-column="198296" />
+        <state>
+          <caret column="251" selection-start-column="251" selection-end-column="251" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="54" column="41" selection-start-line="54" selection-start-column="41" selection-end-line="54" selection-end-column="41" />
           <folding>
-            <element signature="e#24194#24442#2" expanded="true" />
-            <element signature="e#25233#25400#1" expanded="true" />
-            <element signature="e#25440#25688#1" expanded="true" />
-            <element signature="e#28651#28941#2" expanded="true" />
-            <element signature="e#29760#29927#1" expanded="true" />
-            <element signature="e#29967#30257#1" expanded="true" />
-            <element signature="e#58757#58958#2" expanded="true" />
-            <element signature="e#59185#59335#2" expanded="true" />
-            <element signature="e#59734#59881#2" expanded="true" />
-            <element signature="e#61357#61524#1" expanded="true" />
-            <element signature="e#72813#73057#2" expanded="true" />
-            <element signature="e#73882#74132#2" expanded="true" />
-            <element signature="e#103014#103203#2" expanded="true" />
-            <element signature="e#103249#103439#2" expanded="true" />
-            <element signature="e#155414#155608#2" expanded="true" />
-            <element signature="e#155709#155903#2" expanded="true" />
-            <element signature="e#156044#156235#2" expanded="true" />
-            <element signature="e#156355#156546#2" expanded="true" />
-            <element signature="e#156666#156843#2" expanded="true" />
-            <element signature="e#156963#157140#2" expanded="true" />
-            <element signature="e#162883#163985#2" expanded="true" />
-            <element signature="e#164111#165210#2" expanded="true" />
-            <element signature="e#191893#192776#2" expanded="true" />
-            <element signature="e#192788#193671#2" expanded="true" />
-            <element signature="e#267896#268783#2" expanded="true" />
-            <element signature="e#350040#350855#2" expanded="true" />
-            <element signature="e#374562#375345#2" expanded="true" />
+            <element signature="n#section#0;n#section#0;n#section#0;n#section#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#figure#0;n#aside#0;n#section#0;n#section#0;n#section#0;n#section#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#figure#1;n#aside#0;n#section#0;n#section#0;n#section#0;n#section#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#figure#2;n#aside#0;n#section#0;n#section#0;n#section#0;n#section#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#figure#3;n#aside#0;n#section#0;n#section#0;n#section#0;n#section#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/tinyslide.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-391">
-          <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+        <state relative-caret-position="378">
+          <caret line="57" column="2" selection-start-line="57" selection-start-column="2" selection-end-line="57" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="114" column="58" selection-start-line="114" selection-start-column="58" selection-end-line="114" selection-end-column="58" />
+        <state relative-caret-position="253">
+          <caret line="226" column="1" selection-start-line="226" selection-start-column="1" selection-end-line="226" selection-end-column="1" />
         </state>
       </provider>
     </entry>

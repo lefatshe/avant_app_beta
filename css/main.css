@@ -215,18 +215,37 @@ textarea {
    These examples override the primary ('mobile first') styles.
    Modify as content requires.
    ========================================================================== */
+body {
+    background-color: rgb(25, 25, 33);
+}
 
-@media only screen and (max-device-width: 375px) {
+small {
+    color: red;
+    display: block;
+    font-family: Plain,sans-serif;
+    margin-top: 10px;
+}
+
+@media only screen and (max-device-width: 745px) {
     /* Style adjustments for viewports that meet the condition */
     body {
-      background: rgb(25, 25, 33);
+      background: rgb(25, 25, 33) !important;
+    }
+
+    .class-instruction {
+        text-align: left !important;
+        padding: 0px !important;
+    }
+
+    .menu a {
+        font-size: 22px !important;
     }
 
     .next_link span {
       font-size: 2em !important;
     }
 
-    .tinyslide figure  { 
+    .tinyslide figure  {
       padding-top:80px !important
     }
 
@@ -237,14 +256,14 @@ textarea {
       margin-left: 0px;
     }
 
-    .tinyslide figure figcaption { 
-      position: absolute; 
-      font-size: 4em; 
-      color: white; 
-      bottom: 8em; 
-      left: .5em; 
-      z-index: 2; 
-      opacity: 0; 
+    .tinyslide figure figcaption {
+      position: absolute;
+      font-size: 4em;
+      color: white;
+      bottom: 8em;
+      left: .5em;
+      z-index: 2;
+      opacity: 0;
     }
 
     .slides img {
@@ -536,7 +555,7 @@ div{margin:0;padding:0;border:0;font-size:100%;font-family:inherit;vertical-alig
         -ms-animation: fadein 2s; /* Internet Explorer */
          -o-animation: fadein 2s; /* Opera < 12.1 */
             animation: fadein 2s;
-    
+
 }
 
 @keyframes fadein {
@@ -581,8 +600,8 @@ div{margin:0;padding:0;border:0;font-size:100%;font-family:inherit;vertical-alig
   font-family: Plain,sans-serif;
   font-size: 14px;
   font-weight: 300;
-  
-  
+
+
 }
 
 figcaption .title, #demo  {
