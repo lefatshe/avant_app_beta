@@ -25,23 +25,23 @@ html, body { width: 100%; height: 100%; }
 /* line 63, ../sass/tinyslide.scss */
 .tinyslide figure img { width: 100%; height: 100%; -o-object-fit: cover; object-fit: cover; }
 /* line 69, ../sass/tinyslide.scss */
-.tinyslide figure figcaption { 
-  position: absolute; 
-  font-size: 4em; 
-  color: white; 
-  bottom: 8em; 
-  left: 4em; 
-  z-index: 2; 
-  opacity: 0; 
+.tinyslide figure figcaption {
+  position: absolute;
+  font-size: 4em;
+  color: white;
+  bottom: 6em;
+  left: 4em;
+  z-index: 2;
+  opacity: 0;
 }
 /* line 79, ../sass/tinyslide.scss */
-.tinyslide figure.active figcaption { 
-  -webkit-animation-name: fadeInRight; 
-  animation-name: fadeInRight; 
-  -webkit-animation-fill-mode: both; 
-  animation-fill-mode: both; 
-  -webkit-animation-duration: 2s; 
-  animation-duration: 2s; 
+.tinyslide figure.active figcaption {
+  -webkit-animation-name: fadeInRight;
+  animation-name: fadeInRight;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  -webkit-animation-duration: 2s;
+  animation-duration: 2s;
 }
 /* .tip {
   font-family: Plain,sans-serif;
