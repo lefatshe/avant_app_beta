@@ -219,7 +219,7 @@ body {
     background-color: rgb(25, 25, 33);
 }
 
-small {
+.click-exit {
     color: red;
     display: block;
     font-family: Plain,sans-serif;
