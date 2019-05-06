@@ -219,11 +219,11 @@ body {
     background-color: rgb(25, 25, 33);
 }
 
-small {
+.click-exit {
     color: red;
     display: block;
     font-family: Plain,sans-serif;
-    
+
 }
 
 @media only screen and (max-device-width: 745px) {
@@ -639,11 +639,16 @@ figcaption .title, #demo  {
 	background: url(../img/Preloader_6.gif) center no-repeat #fff;
 }
 
+.footer {
+
+}
 
 img.mobile-logo.d-block.d-sm-none {
-  padding-left: 30px;
-  margin-bottom: 40px;
-  width: 330px;
+    padding-left: 30px;
+    margin-bottom: 20px;
+    width: 280px;
+    z-index: 99999;
+
   -webkit-animation: bounce 1.2s ease-out;
 	-moz-animation: bounce 800ms ease-out;
 	-o-animation: bounce 800ms ease-out;

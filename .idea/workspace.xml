@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42f64a60-ae41-4821-9473-facc98e6e7a4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -17,27 +16,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="54" column="41" selection-start-line="54" selection-start-column="41" selection-end-line="54" selection-end-column="41" />
+            <state relative-caret-position="133">
+              <caret line="102" column="36" lean-forward="true" selection-start-line="102" selection-start-column="36" selection-end-line="102" selection-end-column="36" />
               <folding>
-                <element signature="n#section#0;n#section#0;n#section#0;n#section#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#figure#0;n#aside#0;n#section#0;n#section#0;n#section#0;n#section#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#figure#1;n#aside#0;n#section#0;n#section#0;n#section#0;n#section#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#figure#2;n#aside#0;n#section#0;n#section#0;n#section#0;n#section#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#figure#3;n#aside#0;n#section#0;n#section#0;n#section#0;n#section#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#figure#4;n#aside#0;n#section#0;n#section#0;n#section#0;n#section#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="226" column="1" selection-start-line="226" selection-start-column="1" selection-end-line="226" selection-end-column="1" />
+            <state relative-caret-position="-7242">
+              <caret line="146" selection-start-line="146" selection-end-line="146" />
             </state>
           </provider>
         </entry>
@@ -72,6 +68,7 @@
       <find>.header__logo</find>
       <find>.header__logo a.logo</find>
       <find>body</find>
+      <find>logo</find>
     </findStrings>
     <replaceStrings>
       <replace>/img/</replace>
@@ -92,10 +89,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="302" />
-    <option name="y" value="72" />
-    <option name="width" value="1247" />
-    <option name="height" value="745" />
+    <option name="x" value="87" />
+    <option name="width" value="1312" />
+    <option name="height" value="830" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -109,16 +105,6 @@
             <path>
               <item name="avant_app_beta" type="b2602c69:ProjectViewProjectNode" />
               <item name="avant_app_beta" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="avant_app_beta" type="b2602c69:ProjectViewProjectNode" />
-              <item name="avant_app_beta" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="avant_app_beta" type="b2602c69:ProjectViewProjectNode" />
-              <item name="avant_app_beta" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -163,13 +149,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8311000" />
+    <option name="totallyTimeSpent" value="12862000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15399867" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2297155" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -181,7 +167,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.24787535" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.07475623" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -191,25 +177,43 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/bootstrapped.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="251" selection-start-column="251" selection-end-column="251" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="54" column="41" selection-start-line="54" selection-start-column="41" selection-end-line="54" selection-end-column="41" />
-          <folding>
-            <element signature="n#section#0;n#section#0;n#section#0;n#section#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#figure#0;n#aside#0;n#section#0;n#section#0;n#section#0;n#section#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#figure#1;n#aside#0;n#section#0;n#section#0;n#section#0;n#section#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#figure#2;n#aside#0;n#section#0;n#section#0;n#section#0;n#section#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#figure#3;n#aside#0;n#section#0;n#section#0;n#section#0;n#section#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -222,8 +226,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="226" column="1" selection-start-line="226" selection-start-column="1" selection-end-line="226" selection-end-column="1" />
+        <state relative-caret-position="-7242">
+          <caret line="146" selection-start-line="146" selection-end-line="146" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="102" column="36" lean-forward="true" selection-start-line="102" selection-start-column="36" selection-end-line="102" selection-end-column="36" />
+          <folding>
+            <element signature="n#figure#2;n#aside#0;n#section#0;n#section#0;n#section#0;n#section#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#figure#4;n#aside#0;n#section#0;n#section#0;n#section#0;n#section#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
