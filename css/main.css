@@ -232,10 +232,6 @@ body {
       background: rgb(25, 25, 33) !important;
     }
 
-    .class-instruction {
-        text-align: left !important;
-        padding: 0px !important;
-    }
 
     .menu a {
         font-size: 22px !important;
@@ -250,9 +246,9 @@ body {
     }
 
     .title {
-      font-size: 54px;
+      font-size: 38px;
       line-height: 1;
-      letter-spacing: -.5px;
+      letter-spacing: 0px;
       margin-left: 0px;
     }
 
@@ -646,7 +642,7 @@ figcaption .title, #demo  {
 img.mobile-logo.d-block.d-sm-none {
     padding-left: 30px;
     margin-bottom: 20px;
-    width: 280px;
+    width: 220px;
     z-index: 99999;
 
   -webkit-animation: bounce 1.2s ease-out;
@@ -885,4 +881,61 @@ img.mobile-logo.d-block.d-sm-none {
   	padding-bottom: 9px;
     opacity: 1;
   }
+}
+
+
+.count-t {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    overflow: hidden;
+    display: inline-block;
+    font-family: Plain,sans-serif;
+}
+.li {
+    background: linear-gradient(to right, red, purple)
+    font-size: 48px;
+    padding: 0px 25px;
+    border-left: 2px solid #FFF;
+}
+.li small {
+    text-transform: uppercase;
+    font-size: 12px;
+    display: block;
+    clear: both
+}
+.count-t .li {
+    display: inline-block;
+}
+
+
+div#mobile-count {
+    left: -10px;
+    top: 24px;
+   position: absolute;
+}
+
+div#mobile-count .li {
+
+}
+
+div#mobile-count small {
+    font-size: 8px;
+}
+
+.se-pre-txt {
+    color: black;
+    display: block;
+}
+
+.se-pre-txt {
+    color: black;
+    display: block;
+    padding: 10px;
+    position: absolute;
+    z-index: 90000;
+}
+
+.overlay-logo {
+
 }

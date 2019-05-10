@@ -58,13 +58,13 @@ html, body { width: 100%; height: 100%; }
   font-family: Plain,sans-serif;
   color: #fff;
   width: 50%;
-  
+
   font-size: 14px;
     font-weight: 300;
     -webkit-transform: translateY(40px);
     transform: translateY(40px);
     margin-bottom: 55px;
-    
+
 }
 
 a.view-project {
@@ -134,7 +134,7 @@ a.view-project span small {
   font-family: Plain,sans-serif;
     color: #fff;
     font-weight: 500;
-    
+
     font-size: 127px;
     font-weight: 500;
     line-height: 1;
