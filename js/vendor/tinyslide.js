@@ -331,7 +331,7 @@
         return;
       }
 
-      var output = "<footer class='footer'> <div class='footer__controls'> <div class='next_link'>  <a onclick='ga('send', 'event', 'BOOKING', 'Event', 'Avant Garde - Beta Tag')' href='http://live.skybookings.net/events/connecting-the-dots-dj-spinna-nyc/'><img src='img/AG logo_FINAL.png' class='mobile-logo d-block d-sm-none' width='220px'><span data-hover='CONNECTS'>GET TICKETS</span></a> </div> <div class='pagination'><ul>\n";
+      var output = "<footer class='footer'> <div class='footer__controls'> <div class='next_link'>  <a onclick='ga('send', 'event', 'BOOKING', 'Event', 'Avant Garde - Beta Tag')' href='http://live.skybookings.net/events/connecting-the-dots-dj-spinna-nyc/'><span class='c-logo'><img src='img/AG logo_FINAL.png' class='mobile-logo d-block d-sm-none' alt='AG Logo'></span> <span data-hover='CONNECTS'>GET TICKETS</span></a> </div> <div class='pagination'><ul>\n";
       for(var i=0; i < _.numSlides; i++){
         output += "<li class='' data-index='"+i+"'><a style='transition-duration: 7000ms'></a></li>\n";
       }

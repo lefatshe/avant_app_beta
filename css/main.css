@@ -226,10 +226,25 @@ body {
 
 }
 
+.c-logo {
+    overflow: hidden !important;
+}
+
 @media only screen and (max-device-width: 745px) {
     /* Style adjustments for viewports that meet the condition */
     body {
       background: rgb(25, 25, 33) !important;
+    }
+
+
+
+    div#mobile-count  {
+        text-align: center !important;
+    }
+
+    div#mobile-count .li {
+        border: none !important;
+        padding: 0px 10px !important;
     }
 
 
@@ -910,7 +925,6 @@ img.mobile-logo.d-block.d-sm-none {
 
 
 div#mobile-count {
-    left: -10px;
     top: 24px;
    position: absolute;
 }
